@@ -17,7 +17,7 @@ This project is about Automation of user API from Postman using Newman
 A report will be generated in your project source root
 
 ## Test Cases: 
-https://docs.google.com/spreadsheets/d/1-Rk-J0mh7Jl4fkX4TmCloFP8H8CGC1D3/edit?usp=sharing&ouid=108186144021812010608&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/1JCLbQp4QIQfeUURuY9Qo_0H00Dj5qjw6/edit?usp=sharing&ouid=108186144021812010608&rtpof=true&sd=true
 
 ## Bug Report: 
 https://docs.google.com/spreadsheets/d/1Kcomz1hriqr0CcyW5Y6eevm6l7-t16Fu/edit?usp=sharing&ouid=108186144021812010608&rtpof=true&sd=true
