@@ -26,6 +26,4 @@ https://docs.google.com/spreadsheets/d/1Kcomz1hriqr0CcyW5Y6eevm6l7-t16Fu/edit?us
 https://documenter.getpostman.com/view/24414195/2s93m7WMVb
  
  ## Report
- ![Dmoney assignment newman report](https://github.com/adilansary/DmoneyTransaction/assets/67376629/afb480d7-f8d1-46b3-8d83-c8e720ad4bce)
-
- 
+![screencapture-file-C-Users-adila-OneDrive-Documents-SDET-Dmoney-Assignment-Reports-report-html-2023-05-31-10_15_17](https://github.com/adilansary/Dmoney_Transaction_API_Test_Newman/assets/67376629/34c0b1c3-0100-446a-85c5-b1db6bdf16f4)
